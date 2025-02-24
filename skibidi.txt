@@ -3,7 +3,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
        local Window = MakeWindow({
          Hub = {
          Title = "lxlc",
-         Animation = "idl"
+         Animation = "idk"
          },
         Key = {
         KeySystem = false,
@@ -21,7 +21,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=89284864928775",
+       Image = "http://www.roblox.com/asset/?id=74826061214173",
        Size = {40, 40},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
