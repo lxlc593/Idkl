@@ -41,3 +41,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/hea
   end
   })
 
+AddButton(Tab1o, {
+     Name = "idk",
+    Callback = function()
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/lxlc593/9b21b139a1628dcd0d9494885660ea69/raw/ad145673528d908580d00489efd14ca56b97dcd7/Aim"))()
+
+end
+})
