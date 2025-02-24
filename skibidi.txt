@@ -30,19 +30,19 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
       })
       
 ------ Tab
-     local Tab1o = MakeTab({Name = "Chức Năng"})
+     local Tab1o = MakeTab({Name = "min"})
     
     AddButton(Tab1o, {
-     Name = "Min Gaming",
+     Name = "idk",
     Callback = function()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/Min/refs/heads/main/MinAE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/thiennrb7/Script/refs/heads/main/obf_3wug09A9VhQw08S7vh9514KYabKIH8h1V3ec3g5nqoa2k8S0v3Gtzz4Ua8YUBoXi.lua.txt"))()
 
   end
   })
 
 AddButton(Tab1o, {
-     Name = "idk",
+     Name = "aim",
     Callback = function()
 
 loadstring(game:HttpGet("https://gist.githubusercontent.com/lxlc593/9b21b139a1628dcd0d9494885660ea69/raw/ad145673528d908580d00489efd14ca56b97dcd7/Aim"))()
